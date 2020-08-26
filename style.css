@@ -3,7 +3,7 @@ body{
 	margin: 0;
 }
 .header{
-	padding: 30px 0px 0px 96px;
+	padding: 30px 0px 0px 0px;
 	background: #4031B7;
 	width: 100%;
 	height: 769px;
@@ -16,6 +16,7 @@ body{
 	font-size: 18px;
 	color: #B6D2E3;
 	justify-content: space-between;
+	padding-left: 96px;
 }
 .section2 .navbar1{
 	width: 330px;
@@ -46,6 +47,7 @@ body{
 }
 .header_body .header_section1{
 	width: 50%;
+	padding-left: 96px;
 }
 .header_body .header_section2{
 	width: 50%;
